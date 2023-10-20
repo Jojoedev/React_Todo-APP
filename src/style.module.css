@@ -1,0 +1,100 @@
+
+.form{
+    font-size: 20px;
+    color: black;
+    width: 100px;
+    text-align: left;
+    
+    
+
+}
+.fa{
+    color: red;
+    cursor: pointer;
+    margin-right: 50px;
+}
+
+.NewBtn{
+    margin-left: 450px;
+    color: white;
+    background-color: blue;
+  }
+
+  .nav{
+    color: whitesmoke;
+    background-color: teal;
+    height: 50px;
+    text-align: left;
+    font-size: 20px;
+  
+  }
+
+  .FaMarker{
+    color: green;
+    cursor: pointer;
+    margin-right: 50px;
+  }
+
+  .li{
+    display: inline;
+    margin: 20px;
+    cursor: pointer; 
+    text-decoration: none;  
+    color: white; 
+  }
+
+  .ul{
+    text-decoration: none;
+    
+  }
+
+  .container{
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+  }
+
+  .pic{
+    margin: 20px;
+    width: 400px;
+    height: 350px;
+    cursor: pointer;
+  }
+    
+  .pic:hover{
+    transform: rotateY(-35deg);
+    transition: all 1s ease-in;
+  }
+
+  .card{
+    width: 100px;
+    margin: 50px;
+    
+  }
+    
+  .input{
+    border: none;
+    font-size: 20px;
+    color: blue;
+    
+  }    
+    
+  .text{
+    text-align: center;
+    
+  }
+
+.footer{
+  background-color: teal;
+  margin: 0;
+  padding: 0;
+  margin-bottom: -100px;
+  color: aliceblue;
+  height: 50px;
+
+}  
+
+  
+
+  
